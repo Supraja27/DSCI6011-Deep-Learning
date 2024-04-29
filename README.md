@@ -9,3 +9,6 @@ DatasetLink: https://www.kaggle.com/datasets/janmejaybhoi/cotton-disease-dataset
 - Utilizes pre-trained deep learning models (InceptionV3 and ResNet50) for image classification.
 - Provides accurate predictions of cotton plant diseases based on leaf images.
 - Allows users to input images of cotton plant leaves and receive predictions on whether they are healthy or diseased.
+# Deep Learning Models:
+- ResNet50: Part of the Residual Networks family, this model has 50 layers deep and is known for its ability to train rapidly without degradation in performance, thanks to residual connections.
+- InceptionV3: This model is known for its complexity and efficiency, using a mixture of convolutional widths and pooling to improve recognition accuracy at lower computational costs.
