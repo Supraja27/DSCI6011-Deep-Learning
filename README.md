@@ -20,7 +20,7 @@ Data preprocessing is crucial to adapt raw image data to the input requirements 
 - Data Augmentation: Techniques like rotation, shifting, and flipping are used to artificially expand the training dataset, which helps improve model generalization.
 # Evaluation Metrics:
 Throughout the training process, we meticulously monitored our model's performance using a diverse array of evaluation metrics. These metrics, including accuracy, precision, recall, and F1-score, provided valuable insights into the model's effectiveness in accurately classifying cotton plant diseases. By closely analyzing these metrics, we were able to refine our approach and improve model performance iteratively.
-Saved Models Link: https://drive.google.com/drive/folders/1_Z4TCqedTgptnKRPc0UgCmwT63W__MEr?usp=sharing
+- Saved Models Link: https://drive.google.com/drive/folders/1_Z4TCqedTgptnKRPc0UgCmwT63W__MEr?usp=sharing
 # Results and Analysis:
 Our efforts culminated in a comprehensive analysis of the training results, shedding light on the model's behavior and performance trends. We presented training and validation loss/accuracy curves, providing valuable insights into the model's convergence and potential issues such as overfitting or underfitting. Additionally, we delved into the model's performance on the test dataset, offering valuable insights for future iterations and improvements.
 # Conclusion:
